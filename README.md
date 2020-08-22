@@ -1,5 +1,7 @@
 # flutter_music_player
 
+![alt text](https://github.com/TRINITY-21/FLUTTER-MUSIC-PLAYER-APP/blob/master/img.PNG)
+
 A new Flutter project.
 
 ## Getting Started
